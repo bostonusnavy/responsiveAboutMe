@@ -1,0 +1,87 @@
+/*body {*/
+    /*color: #222222;*/
+    /*font-size: 1em;*/
+    /*font-family: "Open Sans", "Helvetica Neue", sans-serif;*/
+    /*background-color: #222222;*/
+    /*background-image: none;*/
+    /*background-repeat: no-repeat;*/
+    /*filter: none;*/
+/*}*/
+
+/*----- CSS for the Header ----- */
+
+header {
+    border-bottom: black .1em solid;
+}
+
+.headerBox {
+    background-image: url('https://ununsplash.imgix.net/uploads/14127101912749510b8ed/82743738?q=75&fm=jpg&s=2150993787c74416103059d6ebac09f5');
+    height: 15em;
+    /*padding: 6em 0;*/
+    background-size: cover;
+}
+
+.headerBox p {
+    font-size: 3em;
+}
+
+.headerBox h1 {
+    font-size: 6em;
+}
+/*.headerPara {*/
+    /*text-align: center;*/
+    /*margin-bottom: 0.1em;*/
+/*}*/
+
+/*.headerMyName {*/
+    /*text-align: center;*/
+    /*margin-top: -0.2em;*/
+/*}*/
+
+ /*----- CSS for the content sections ----- */
+
+.contentSection {
+    background-color: #e1e1e1;
+}
+
+/*h2 {*/
+    /*padding-top: 1%;*/
+    /*padding-bottom: 1%;*/
+    /*padding-left: 15%;*/
+/*}*/
+
+/*p {*/
+    /*padding-left: 17%;*/
+    /*padding-right: 17%;*/
+/*}*/
+
+footer {
+    border-top: black .1em solid;
+    padding: 1em 0;
+}
+
+ /*----- CSS for the Footer ----- */
+
+/*.footerStyle {*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+    /*font-family: "Gentium Book Basic", Georgia, serif;*/
+    /*font-size: 1.25;*/
+/*}*/
+
+.footerStyle ul{
+    list-style: none;
+    display: inline;
+    padding: 0;
+    /*text-align: center;*/
+
+}
+
+/*.footerStyle li {*/
+    /*padding: .25em;*/
+/*}*/
+
+/*.footerStyle a {*/
+    /*text-decoration: none;*/
+    /*color: black;*/
+/*}*/
